@@ -1,1 +1,1 @@
-resposta = 10
+
